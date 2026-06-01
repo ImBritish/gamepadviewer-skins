@@ -7,14 +7,16 @@
   width: 100%;
   height: 100%;
 }
+
 .custom.controller.disconnected {
-  opacity: 0.75;
+  opacity: 0;
 }
+
 .custom.controller.disconnected::after {
   content: '';
   background-image: url(disconnected.svg);
   position: absolute;
-  opacity: 0.5;
+  opacity: 0;
 }
 
 /* L2 & R2 */
@@ -25,6 +27,7 @@
   left: 12.4240vw;
   top: 0;
 }
+
 .custom .trigger, .custom .triggers::before, .custom .triggers::after {
   position: absolute;
   background-image: url(triggers.svg);
