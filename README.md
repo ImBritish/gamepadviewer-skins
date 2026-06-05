@@ -3,60 +3,6 @@
 
 ## PlayStation 5
 
-### Penguin
-
-[![A screenshot showing a preview of the penguin skin](https://raw.githubusercontent.com/Istador/gamepadviewer-skins/public/playstation/ps5/penguin/preview.png "Penguin Skin")](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/playstation/ps5/penguin/style.css)
-
 ### White
 
-[![A screenshot showing a preview of the white PS5 skin](https://raw.githubusercontent.com/Istador/gamepadviewer-skins/public/playstation/ps5/white/preview.png "Penguin Skin")](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/playstation/ps5/white/style.css)
-
-
-## PlayStation 4
-
-### Penguin
-
-[![A screenshot showing a preview of the penguin skin](https://raw.githubusercontent.com/Istador/gamepadviewer-skins/public/playstation/ps4/penguin/preview.png "Penguin Skin")](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/playstation/ps4/penguin/style.css)
-
-
-## GameBoy Advance
-
-### Purple
-
-[![A screenshot showing a preview of the purple GBA skin](https://raw.githubusercontent.com/Istador/gamepadviewer-skins/public/gameboy/advance/preview-purple.png "Purple GBA")](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/gameboy/advance/purple.css)
-- [with mapping: LStick to DPad](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/gameboy/advance/purple.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
-- [with mapping: LStick to DPad, swap X with B](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/gameboy/advance/purple.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"}]})
-
-### Silver
-
-[![A screenshot showing a preview of the silver GBA skin](https://raw.githubusercontent.com/Istador/gamepadviewer-skins/public/gameboy/advance/preview-silver.png "Silver GBA")](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/gameboy/advance/purple.css&editcss=https://istador.github.io/gamepadviewer-skins/gameboy/advance/silver.css)
-- [with mapping: LStick to DPad](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/gameboy/advance/purple.css&editcss=https://istador.github.io/gamepadviewer-skins/gameboy/advance/silver.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
-- [with mapping: LStick to DPad, swap X with B](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/gameboy/advance/purple.css&editcss=https://istador.github.io/gamepadviewer-skins/gameboy/advance/silver.css&map={"mapping":[{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"2"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"3","disabled":false,"choiceType":"buttons","choice":"3"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"}]})
-
-
-## Default Controllers
-
-- Hide on disconnect instead of red silhouette:
-  - [Xbox One](https://gamepadviewer.com/?p=1&s=1&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-hide.css)
-  - [Xbox One (White)](https://gamepadviewer.com/?p=1&s=0&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-hide.css)
-  - [Xbox 360](https://gamepadviewer.com/?p=1&s=4&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-hide.css)
-  - [PS3](https://gamepadviewer.com/?p=1&s=2&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-hide.css)
-  - [PS3 (White)](https://gamepadviewer.com/?p=1&s=10&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-hide.css)
-  - [PS4](https://gamepadviewer.com/?p=1&s=5&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-hide.css)
-  - [PS4 (White)](https://gamepadviewer.com/?p=1&s=8&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-hide.css)
-  - [GameCube](https://gamepadviewer.com/?p=1&s=9&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-hide.css)
-  - [FightPad Pro](https://gamepadviewer.com/?p=1&s=6&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-hide.css)
-  - [Fight Stick](https://gamepadviewer.com/?p=1&s=7&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-hide.css)
-  - [NES](https://gamepadviewer.com/?p=1&s=3&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-hide.css)
-- Fade out on disconnect instead of red silhouette:
-  - [Xbox One](https://gamepadviewer.com/?p=1&s=1&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-fadeout.css)
-  - [Xbox One (White)](https://gamepadviewer.com/?p=1&s=0&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-fadeout.css)
-  - [Xbox 360](https://gamepadviewer.com/?p=1&s=4&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-fadeout.css)
-  - [PS3](https://gamepadviewer.com/?p=1&s=2&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-fadeout.css)
-  - [PS3 (White)](https://gamepadviewer.com/?p=1&s=10&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-fadeout.css)
-  - [PS4](https://gamepadviewer.com/?p=1&s=5&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-fadeout.css)
-  - [PS4 (White)](https://gamepadviewer.com/?p=1&s=8&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-fadeout.css)
-  - [GameCube](https://gamepadviewer.com/?p=1&s=9&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-fadeout.css)
-  - [FightPad Pro](https://gamepadviewer.com/?p=1&s=6&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-fadeout.css)
-  - [Fight Stick](https://gamepadviewer.com/?p=1&s=7&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-fadeout.css)
-  - [NES](https://gamepadviewer.com/?p=1&s=3&editcss=https://istador.github.io/gamepadviewer-skins/default/disconnect-fadeout.css)
+[![A screenshot showing a preview of the white PS5 skin](https://raw.githubusercontent.com/ImBritish/gamepadviewer-skins/public/playstation/ps5/white/preview.png "Default White Skin")](https://gamepadviewer.com/?p=1&css=https://imbritish.github.io/gamepadviewer-skins/playstation/ps5/white/style.css)
