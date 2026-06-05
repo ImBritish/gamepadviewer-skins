@@ -1,62 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg width="87.616676mm" height="123.80259mm" viewBox="0 0 87.616676 123.80259" version="1.1" id="svg5" inkscape:label="quad_bg" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" sodipodi:docname="start_back.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title id="title63815">PS5 DualSense Controller</title>
-  <sodipodi:namedview id="namedview7" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="true" inkscape:document-units="mm" showgrid="false" fit-margin-top="10" fit-margin-left="10" fit-margin-right="10" fit-margin-bottom="10" inkscape:zoom="0.9595366" inkscape:cx="163.62065" inkscape:cy="221.98215" inkscape:window-width="1833" inkscape:window-height="1015" inkscape:window-x="128" inkscape:window-y="37" inkscape:window-maximized="0" inkscape:current-layer="svg5" inkscape:showpageshadow="false" />
-  <defs id="defs2">
-    <linearGradient id="linearGradient8705" inkscape:swatch="solid">
-      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8703" />
-    </linearGradient>
-    <linearGradient id="linearGradient8655" inkscape:swatch="solid">
-      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8653" />
-    </linearGradient>
-    <linearGradient id="linearGradient8629" inkscape:swatch="solid">
-      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8627" />
-    </linearGradient>
-    <linearGradient id="linearGradient8541" inkscape:swatch="solid">
-      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop8539" />
-    </linearGradient>
-  </defs>
-  <g id="g1347" inkscape:label="pressed" transform="translate(-230.50831,-118.82178)">
-    <path id="path16609" style="display:inline;fill:#ff6666;fill-opacity:1;stroke:#993333;stroke-width:2.33871;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 296.03632,186.89344 a 11.037217,11.037217 0 0 1 2.02435,0.20947 11.037217,11.037217 0 0 1 8.68351,12.9719 11.037217,11.037217 0 0 1 -0.16916,0.71103 l 0.0787,0.016 -4.05474,20.46499 h -0.0706 a 11.037217,11.037217 0 0 1 -11.00394,10.18818 11.037217,11.037217 0 0 1 -11.03817,-11.03619 11.037217,11.037217 0 0 1 0.51564,-3.33161 h -0.0503 l 3.97215,-20.05809 a 11.037217,11.037217 0 0 1 0.16721,-1.24483 11.037217,11.037217 0 0 1 10.94552,-8.89099 z" inkscape:label="start_btn" />
-    <path id="circle16059" style="display:inline;fill:#ff6666;fill-opacity:1;stroke:#993333;stroke-width:2.33871;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 252.59699,186.89345 a 11.037217,11.037217 0 0 0 -2.02435,0.20947 11.037217,11.037217 0 0 0 -8.68353,12.97189 11.037217,11.037217 0 0 0 0.16921,0.71103 l -0.0786,0.016 4.05473,20.46499 h 0.0705 a 11.037217,11.037217 0 0 0 11.00397,10.18818 11.037217,11.037217 0 0 0 11.03819,-11.03619 11.037217,11.037217 0 0 0 -0.51565,-3.33161 h 0.0503 l -3.97214,-20.05809 a 11.037217,11.037217 0 0 0 -0.16718,-1.24483 11.037217,11.037217 0 0 0 -10.94554,-8.89098 z" inkscape:label="share_btn" />
-  </g>
-  <g id="g1353" inkscape:label="normal" transform="translate(-230.50831,-175.7233)" style="display:inline">
-    <path id="path1349" style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:2.33871;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none" d="m 296.03632,186.89344 a 11.037217,11.037217 0 0 1 2.02435,0.20947 11.037217,11.037217 0 0 1 8.68351,12.9719 11.037217,11.037217 0 0 1 -0.16916,0.71103 l 0.0787,0.016 -4.05474,20.46499 h -0.0706 a 11.037217,11.037217 0 0 1 -11.00394,10.18818 11.037217,11.037217 0 0 1 -11.03817,-11.03619 11.037217,11.037217 0 0 1 0.51564,-3.33161 h -0.0503 l 3.97215,-20.05809 a 11.037217,11.037217 0 0 1 0.16721,-1.24483 11.037217,11.037217 0 0 1 10.94552,-8.89099 z" inkscape:label="start_btn" />
-    <path id="path1351" style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:2.33871;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none" d="m 252.59699,186.89345 a 11.037217,11.037217 0 0 0 -2.02435,0.20947 11.037217,11.037217 0 0 0 -8.68353,12.97189 11.037217,11.037217 0 0 0 0.16921,0.71103 l -0.0786,0.016 4.05473,20.46499 h 0.0705 a 11.037217,11.037217 0 0 0 11.00397,10.18818 11.037217,11.037217 0 0 0 11.03819,-11.03619 11.037217,11.037217 0 0 0 -0.51565,-3.33161 h 0.0503 l -3.97214,-20.05809 a 11.037217,11.037217 0 0 0 -0.16718,-1.24483 11.037217,11.037217 0 0 0 -10.94554,-8.89098 z" inkscape:label="share_btn" />
-  </g>
-  <style type="text/css" id="style2">
-	.st0{fill:#61E0DF;}
-	.st1{fill:#3ED8D2;}
-</style>
-  <style type="text/css" id="style2-5">
-	.st0{fill:#3ED8D2;}
-	.st1{fill:#61E0DF;}
-	.st2{opacity:8.000000e-002;}
-</style>
-  <metadata id="metadata63811">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
-        <dc:title>PS5 DualSense Controller</dc:title>
-        <dc:date>2024-03-14</dc:date>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Robin Christopher Ladiges</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:source>https://rcl.blackpinguin.de/</dc:source>
-      </cc:Work>
-      <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
-        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 123" width="88" height="123">
+	<defs>
+		<image  width="30" height="48" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAwCAMAAAAxSDrWAAAAAXNSR0IB2cksfwAAAd1QTFRFAAAAAL/AAMbHAMjJAMnKAMbHAMXGZf7/AMTEAMvMAMrLAMvMAMrLAMnKAMPDAMjJAMrLAMjJAMvMAMnKAPv8Jv7/P/7/V/7/Zf7/Xv7/Kv7/AP7/AM/QAMvMAMvMAKqqAMnKAOfoS/7+Wv7/Fv7+AMvMAMLDAMnKAPz9Of7/ANHSAMnKAPb3Mv7/AMvMAMrLAN7fXf7/C/7/AMvMALu7AMvMAMjJAMjJAN3eAv7/AMrLAMrLD/7+AJ+gAMrLKf7/TP7+AMLDAL/ARP7/WP7/AMvMAMvMYv7/Uv7+AOTkTv7+ANXWAMrLBf7/MP7/I/7/Ff7+AMrLAMDBQf7/APPzAMrLYP7/ANTVAMrLAMrLAOPjAMvMAMnKAMnKAMvMAMvMIP7/AMvMQP7/AMnKAMjJAOHiAMTFH/7/AMnKAMvMAPX2AMnKAMrLAODhAMjJAMrLM/7/AL/AAMnKHv7/AMvMPP7/AMvMAMnKANfYAMjJANLTVP7+AMbHAMjJANHSEv7+AMrLAMTFSf7+AMnKAMnKGf7/W/7/AM7PAMjJAMrLANjZIf7/AMrLAMvMAMzNNv7/AOnqAMnKALi5AMrLT/7+AMbHAMvMAMrLBv7/Vf7+AMrLAMnKAMvMAMjJAMnKpqZdggAAAJ90Uk5TABhJbWFANgAfgtj/6pUagPZ2Cr3///////////+5DwnC/////9cRlP///8H//33A////8hMycYH//7vJ/wj0//8iHP//PFD//////rX/////zh3//5z//2qE/ze3/QXw/9L/n1H/Ov/VHv+jcP8+tv8M3/8U/6VI/3L//z9g/f/KMP+Z7v///1mS//+mjP////gL0/8g6IP//2uPQSqeQhKJfgAAAm9JREFUeJxjZEABjGDwC8FnYEeRgzF+ghk/kaQ5/iBMYWX8hirNzfiDgYGTEQreMwgxvkSSlmB8zSAG0QJW+5xBivEhQlrhCYPsByQ3CjI+VLgDl/7HxqD4BsUPovcYlG/CpDXuqALNQwFSNzUYz0Ck9a4xKL1GlWX4/4VB+xRE2uCK7gMGdKB4Sf8YRNrkguEdDGmg7UYQafOzJjcxpDVOM5iBpa1PMlhcxZDWOc5gBZa2P8pgcxFD2uAwVJqJye48hizQ4gN/wdKu+51OY0qb7WX9AJZm/e9yElPaYrfbepC0904Gj6OY0jbbvVaDpIEu8z6EKW2/xXcFSDpok/8+TFmgwwOWgqRD1+vdx5QWvRfEuAgkHbEmdAc2l4UtA0Uo0GXh27C5LGIJSDp2OQ6X/WABSQdtitqM1WXRC0HSoesF/mJ12davIOmINTEbsbksdj4oKWYuYuBmwpQOWpgwBySdspxB7TmmtP2WxNkg6chNSauxuix5Jkg6fw42l0XMZkibBpIumpmxFJvLpB6B8ljJdIasxdhclj0RJF0+BavLEibn9YGkWdjz52HKJk9gKOwGSdf2YZO21u4Vfgk1HEuEpPeUtjOApBu7GMqnYXFZRQtYOk6tvWoyumweY0ttPViaobOpvg9durgBFChgab6/DOgx9j95YmM1A0Sava2umbETWZaxvLrt4FaYdDdjBQMXM0K25k81AxukjAKXLX2MpQx69xihstEzGBh6ChgQ0gzW8qsYfBynCos51/I5LmNg6M9lQJZm4O4sQHLYpGwGVGkGhmmMU2+AGRyl9QiVPxkRbNcDQCK/B8WLACIm0kF0BATiAAAAAElFTkSuQmCC"/>
+		<image  width="30" height="48" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAwCAMAAAAxSDrWAAAAAXNSR0IB2cksfwAAAeNQTFRFAAAAAMjJAMbHAMfIAMrLAMvMZf7/AMvMAMrLAMrLAMvMAMrLAMrLAMXGAMfIAMvMAMvMAMvMAPX2IP7/VP7+Zf7/Xv7/RP7/Lf7/Cf7/AMrLAMLDAMvMAP7/Uf7+V/7/APv8AMvMAMbHAMnKHP7/Hv7/AMrLAMbHEv7+Gf7/AMvMAMvMAOfoAMrLAL/AAMjJOv7/Uv7+AMjJAMrLAN7fAMrLAMvMEP7+MP7/AKqqAMvMJ/7/TP7+AMvMN/7/AMfIAH+AAMrLAOrrAM7PAMvMAMnKC/7/Kf7/AMvMAMvMAO/wR/7/AMfIAMvMANHSYv7/AM7PAMjJTv7+AOnqAH+AAMvMLv7/CP7/AMrLJv7/AMrLAMvMAMLDAMvMAMXGAObmAMrLAMvMBv7/JP7/AMnKAPDxQv7/AMjJAOTkAMnKBf7/AMnKI/7/AMnKAMnKAPLzQf7/AMvMAMrLANTVYP7/AOPjAMnKAMvMAMvMAO3uAMvMAMjJANLTAMvMPf7/AMvMAMnKAPj5P/7/AMbHAMrLANfYT/7+ANXWAMjJANjZPP7/QP7/AMvMWv7/AMnKAMfIAMnKOf7/AN3eAMvMAMTFAMDBAMnKAMnKAMXGAMfIAMrLAMvMAMrLAMfIALi5AMjJALW1yqTttQAAAKF0Uk5TACo/U3RVAAp62P/nlzZPqg+M///////////gIq//////4yCP///JQP//fc3/7ww5//9sg/+7yP//Cej//y3/WAT+//y+vf//8JH//yVf////Wf//Avr//8D/9pYmZDH/jQX//5r//2j//f/Q//Oe//8Zav///5nUm/+CYP8e/yjL//9O2////0L////y/0g97v//6zohuKkbOKb3tkULPg7DyYn8AAACb0lEQVR4nHXUf0gTYRgH8OcJy+X+EZSE0qhGmZlJLaVGiohhRQ6zMuLIlJAUhpapTSWKGZGFDBr9RMxMltjSfjAC+yEmYRKWhqC58gclkmEwam3JRt29d9vu9r49/9y9fO69+95z770IgUKhvH9BXgiwxG/+i/4EdEFilU82azH+VrKan6BCsZwAkfhdzst+QBS6pRkROAcx+DXIcbOw3CnLEzkDsVMBjv8CK+cVeaOnYdUnPydOrvkGylLPaXBM5GQHrJsJ4diPsH5EZO3ohmkILdV84rDIqSNJExRrPkDyIGHd0OZxiuPfgXaAcARsHaUYXJDSL3AGDmz6THPSm3AXma3e5mJwmFP3ivDO1zve07ylL/0l4d29GW9pTu2BzG6Bc15k9dOsw+5su8Bpg7Crj/b0p3w2ng+gfW8PzZlP9J3kkzDbBlmPcm2EuS5WtkU/Ia9D4CMPmNmeQbZd4AIbM9ue+/lWgYt+2VltzWnXd5K1tnaSlU1/L9dGuMDKPaR5XxvktQlcdPd/2boEDvcxs+1vzW8RmFPdYWU72KJvJ39J8e2QhU7qUPMxC+GSpmIrzdwtOE7YcKO0leaj1yCMcIIDot20F15NIKwdBlY2n8cg/t8nLYcfs7hM5LjZ8iaaYyZOiFxlrrhJ8/bnJSKfboTK66G6YhyqpK2n9lKUJ5QNDdXnJN44BkaLUvmu1JyRmNNcqEOzXNNS6lc7/PsamExwFi8HtdpbbxrqCDCovHybNBcl5TcfOG+EIEMD1kJdr2fKvfSUlTPywwqQM5ixMnjzRiwDJQNYEMvJyRUsJccFVL5NMwpPryn0j/8BRQDVPH0cERsAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff;stroke: #666666;stroke-linejoin: bevel;stroke-width: 2.3 } 
+	</style>
+	<g id="g1347">
+		<use id="path16609" href="#img1" x="48" y="66"/>
+		<use id="circle16059" href="#img2" x="9" y="66"/>
+	</g>
+	<g id="g1353">
+		<path id="path1349" class="s0" d="m65.24 11.12q0.26 0 0.51 0.02 0.25 0.01 0.51 0.04 0.25 0.03 0.5 0.06 0.25 0.04 0.5 0.09c1.41 0.28 2.76 0.84 3.96 1.64 1.2 0.8 2.23 1.83 3.04 3.03 0.8 1.2 1.36 2.54 1.64 3.96 0.28 1.41 0.28 2.87 0 4.29q-0.01 0.08-0.03 0.17-0.02 0.09-0.04 0.18-0.03 0.09-0.05 0.18-0.02 0.09-0.04 0.17l0.07 0.02-4.03 20.38h-0.07c-0.11 1.36-0.47 2.7-1.07 3.93-0.59 1.24-1.42 2.35-2.42 3.28-1.01 0.94-2.18 1.67-3.46 2.17-1.28 0.5-2.64 0.76-4.01 0.76-1.44 0-2.87-0.29-4.21-0.84-1.33-0.55-2.54-1.36-3.56-2.38-1.02-1.02-1.83-2.23-2.38-3.56-0.56-1.34-0.84-2.77-0.84-4.21q0-0.42 0.03-0.84 0.04-0.42 0.1-0.84 0.06-0.41 0.16-0.82 0.1-0.41 0.22-0.82h-0.05l3.96-19.97q0.01-0.15 0.03-0.31 0.01-0.15 0.03-0.31 0.02-0.15 0.05-0.31 0.03-0.15 0.05-0.31 0.38-1.88 1.37-3.53 1-1.65 2.49-2.86 1.49-1.21 3.3-1.85 1.82-0.63 3.74-0.61z"/>
+		<path id="path1351" class="s0" d="m21.99 11.12q-0.25 0-0.5 0.02-0.26 0.01-0.51 0.04-0.25 0.03-0.5 0.06-0.25 0.04-0.5 0.09c-1.42 0.28-2.77 0.84-3.97 1.64-1.2 0.8-2.23 1.83-3.03 3.03-0.8 1.2-1.36 2.54-1.65 3.96-0.28 1.41-0.28 2.87 0 4.29q0.02 0.08 0.04 0.17 0.02 0.09 0.04 0.18 0.02 0.09 0.04 0.18 0.03 0.09 0.05 0.17l-0.08 0.02 4.04 20.38h0.07c0.1 1.36 0.46 2.7 1.06 3.93 0.6 1.24 1.42 2.35 2.43 3.28 1.01 0.94 2.18 1.67 3.46 2.17 1.27 0.5 2.63 0.76 4 0.76 1.45 0 2.88-0.29 4.21-0.84 1.33-0.55 2.54-1.36 3.57-2.38 1.02-1.02 1.83-2.23 2.38-3.56 0.55-1.34 0.83-2.77 0.83-4.21q0-0.42-0.03-0.84-0.03-0.42-0.09-0.84-0.07-0.41-0.17-0.82-0.09-0.41-0.22-0.82h0.05l-3.95-19.97q-0.02-0.15-0.03-0.31-0.02-0.15-0.04-0.31-0.02-0.15-0.04-0.31-0.03-0.15-0.06-0.31-0.38-1.88-1.37-3.53-0.99-1.65-2.48-2.86-1.49-1.21-3.31-1.85-1.82-0.63-3.74-0.61z"/>
+	</g>
 </svg>
